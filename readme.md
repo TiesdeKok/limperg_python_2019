@@ -7,7 +7,7 @@
 
 <span style="display: block; padding-top: 5px"></span>
 
-**Six sessions:**
+**Five sessions:**
 
 <span style="display: block; padding-top: 5px"></span>
 
