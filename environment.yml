@@ -12,7 +12,7 @@ dependencies:
   - xlrd
   - openpyxl
   - pytables
-  - qgrid
+  - qgrid=1.1.0
   - pip:
     - pyldavis
     - requests-html
