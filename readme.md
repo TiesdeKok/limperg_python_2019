@@ -33,7 +33,7 @@
 
 ### Mini-tasks
 
-Please find all the mini-tasks notebooks in the `Materials > Session_X >` folders.
+Please find all the mini-tasks notebooks in the `minitasks > day_x >` folders.
 
 You can download the entire repository by following these steps:
 
