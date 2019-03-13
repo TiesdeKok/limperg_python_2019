@@ -3,7 +3,7 @@
 */.ipynb_checkpoints/*
 
 ## Do not sync answers
-Answers/
+answers/
 
 ## Avoid syncing "dontsync" folders
 dontsync
@@ -17,7 +17,7 @@ dontsync
 debug.log
 
 ## Hide future sessions for now
-minitasks
+
 
 
 

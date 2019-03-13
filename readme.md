@@ -13,23 +13,23 @@
 
 1) Introduction to Python + Python worfklow     
 <span style="padding-left: 20px" class="arrow-right"></span> Monday (18-3-2019)  
-<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="#" target="_blank">Day 1 Slides</a>
+<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="http://www.tiesdekok.com/slides/limperg_2019/day_1/" target="_blank">Day 1 Slides</a>
 
 2) Handling data with `Pandas`  
 <span style="padding-left: 20px" class="arrow-right"></span> Tuesday (19-3-2019)     
-<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="#" target="_blank">Day 2 Slides</a>
+<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="http://www.tiesdekok.com/slides/limperg_2019/day_2/" target="_blank">Day 2 Slides</a>
 
 3) Gathering data from the web  
 <span style="padding-left: 20px" class="arrow-right"></span> Wednesday (20-3-2019)    
-<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="#" target="_blank">Day 3 Slides</a>
+<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="http://www.tiesdekok.com/slides/limperg_2019/day_3/" target="_blank">Day 3 Slides</a>
 
 4) Natural Language Processing   
 <span style="padding-left: 20px" class="arrow-right"></span> Thursday (21-3-2019)    
-<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="#" target="_blank">Day 4 Slides</a>
+<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="http://www.tiesdekok.com/slides/limperg_2019/day_4/" target="_blank">Day 4 Slides</a>
 
 5) Misc. topics  
 <span style="padding-left: 20px" class="arrow-right"></span> Friday (22-3-2019)   
-<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="#" target="_blank">Day 5 Slides</a>
+<span style="padding-left: 20px" class="arrow-right"></span>Slides: <a href="http://www.tiesdekok.com/slides/limperg_2019/day_5/" target="_blank">Day 5 Slides</a>
 
 ### Mini-tasks
 
