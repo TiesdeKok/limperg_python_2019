@@ -42,15 +42,15 @@ You can download the entire repository by following these steps:
 You can download the session materials using the following links:
 
 1) Introduction to Python (+ Python worfklow)  
-<a href="#">Download Materials for day 1</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/TiesdeKok/limperg_python_2019/tree/master/minitasks/day_1">Download Materials for day 1</a>
 
 2) Handling data with `Pandas`   
-<a href="#">Download Materials for day 2</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/TiesdeKok/limperg_python_2019/tree/master/minitasks/day_2">Download Materials for day 2</a>
 
 3) Gathering data from the web   
-<a href="#">Download Materials for day 3</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/TiesdeKok/limperg_python_2019/tree/master/minitasks/day_3">Download Materials for day 3</a>
 
 4) Natural Language Processing   
-<a href="#">Download Materials for day 4</a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/TiesdeKok/limperg_python_2019/tree/master/minitasks/day_4">Download Materials for day 4</a>
 
 If you unzip the ZIP file to a folder you are ready to start with the materials for that session!
